@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "fs-extra": "^7.0.0",
-    "prisma-cli-core": "1.34.10",
+    "prisma-cli-core": "https://github.com/DevFullStackJS/prisma-cli-core.git",
     "prisma-cli-engine": "1.34.10",
     "semver": "^5.4.1",
     "source-map-support": "^0.4.18"
